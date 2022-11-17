@@ -5,4 +5,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = "web3-authenticator"
+rootProject.name = "web3authenticator"
